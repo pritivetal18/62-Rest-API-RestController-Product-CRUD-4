@@ -3,7 +3,6 @@ package com.cjc.ProductService;
 import java.util.List;
 
 import com.cjc.ProductModel.Product;
-import com.cjc.xml.PtroductXml;
 
 public interface ProductService {
 	
